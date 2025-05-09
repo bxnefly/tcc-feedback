@@ -20,5 +20,5 @@ Este projeto é parte do Trabalho de Conclusão de Curso (TCC) e tem como objeti
 ## 🛠️ Tecnologias Utilizadas
 
 - **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** PHP (se estiver usando) ou JavaScript (Node opcional)
+- **Back-end:** JavaScript
 - **Banco de Dados:** MySQL
